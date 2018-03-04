@@ -1,7 +1,7 @@
 # Sokoban-Game
 
 ## description
-It is a sokoban game written in java.
+A sokoban game written in java.
 
 ### Features
 * There is ranking list to record the rank of each player.
@@ -13,10 +13,10 @@ It is a sokoban game written in java.
 ## Construction:
 
 ### Project 
-It contains the java files.
+Folder which contains all the java files.
 
 ### resrc 
-folders which contains resources used by the game design.
+Folders which contains resources used by the game design.
 
 ### compile 
 A script to compile the project.
