@@ -4,7 +4,7 @@
 It is a sokoban game in java. 
 
 
-##Construction:
+## Construction:
 
 ### Project 
 It contains the java files.
