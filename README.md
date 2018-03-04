@@ -1,11 +1,20 @@
 # Sokoban-Game
+
+## description
 It is a sokoban game in java. 
 
-Project contains the java files.
 
-resrc is the folders which contains resources used by the game design.
+##Construction:
 
-compile is the script which is for java files compile.
+### Project 
+It contains the java files.
 
-run is the script for java files run.
+### resrc 
+folders which contains resources used by the game design.
+
+### compile 
+A script to compile the project.
+
+### run
+A script to run the project.
 
