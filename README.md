@@ -24,3 +24,7 @@ A script to compile the project.
 ### run
 A script to run the project.
 
+
+## Photo
+![Screenshot](doc/pic3.png)
+![Screenshot](doc/pic2.png)
