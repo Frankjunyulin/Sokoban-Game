@@ -26,5 +26,5 @@ A script to run the project.
 
 
 ## Photo
-![Screenshot](doc/pic3.png)
-![Screenshot](doc/pic2.png)
+![Screenshot](doc/pic3.jpg)
+![Screenshot](doc/pic2.jpg)
